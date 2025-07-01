@@ -1,0 +1,38 @@
+[
+  {
+    "conversation_id": "conv_001",
+    "predicted_intent": "Follow-Up",
+    "confidence": 0.438,
+    "rationale": "Based on the conversation, this seems to be about follow-up"
+  },
+  {
+    "conversation_id": "conv_002",
+    "predicted_intent": "Product Inquiry",
+    "confidence": 0.516,
+    "rationale": "Based on the conversation, this seems to be about product inquiry"
+  },
+  {
+    "conversation_id": "conv_003",
+    "predicted_intent": "Follow-Up",
+    "confidence": 0.447,
+    "rationale": "Based on the conversation, this seems to be about follow-up"
+  },
+  {
+    "conversation_id": "conv_004",
+    "predicted_intent": "Support Request",
+    "confidence": 0.488,
+    "rationale": "Based on the conversation, this seems to be about support request"
+  },
+  {
+    "conversation_id": "conv_005",
+    "predicted_intent": "Follow-Up",
+    "confidence": 0.876,
+    "rationale": "Based on the conversation, this seems to be about follow-up"
+  },
+  {
+    "conversation_id": "conv_006",
+    "predicted_intent": "Follow-Up",
+    "confidence": 0.329,
+    "rationale": "Based on the conversation, this seems to be about follow-up"
+  }
+]

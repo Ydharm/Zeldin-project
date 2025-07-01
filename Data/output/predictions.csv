@@ -1,0 +1,7 @@
+conversation_id,predicted_intent,confidence,rationale
+conv_001,Follow-Up,0.438,"Based on the conversation, this seems to be about follow-up"
+conv_002,Product Inquiry,0.516,"Based on the conversation, this seems to be about product inquiry"
+conv_003,Follow-Up,0.447,"Based on the conversation, this seems to be about follow-up"
+conv_004,Support Request,0.488,"Based on the conversation, this seems to be about support request"
+conv_005,Follow-Up,0.876,"Based on the conversation, this seems to be about follow-up"
+conv_006,Follow-Up,0.329,"Based on the conversation, this seems to be about follow-up"
